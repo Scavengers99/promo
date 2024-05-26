@@ -1,7 +1,7 @@
 {
-  "codes": [
-    "PROMO2024",
-    "DISCOUNT50",
-    "SUMMER21"
-  ]
+  "namePromoCode":"ass",
+  "nameScriptableObject":"",
+  "countScriptapleObject":0,
+  "gold":100,
+  "silver":0
 }
